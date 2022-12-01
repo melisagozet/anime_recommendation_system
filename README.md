@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 Clone the project
 
 ```bash
-  git clone https://github.com/melisagozet/Anime-Recommendations
+  git clone https://github.com/melisagozet/anime_recommendation_system
 ```
 
 Go to project directory
